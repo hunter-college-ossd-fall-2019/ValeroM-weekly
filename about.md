@@ -11,4 +11,4 @@ I'm passionate about the software development industry and learning new skills a
 
 #### More Information
 
-[Connect with me!](https://linkedin.com/in/valero-marco/)
+[Connect with me!](https://www.linkedin.com/in/valero-marco/)
