@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+#### More Information
 
-### More Information
+My name is Marco Valero and I'm 23 years old. I'm a second degree student majoring in Computer Science at Hunter College and will be graduating in the Spring 2020 semester.  
+I'm passionate about the software development industry and learning new skills and technologies while also refining my current skills.
 
-A place to include any other types of information that you'd like to include about yourself.
+##### More Information
 
+[Connect with me!](https://linkedin.com/in/valero-marco/)
